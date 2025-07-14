@@ -131,7 +131,7 @@ Environmental_Monitor/
 
 ![Image](https://github.com/user-attachments/assets/142a1d98-a188-4dff-a327-0d7762df8cbc)
 
-
+<img width="481" height="357" alt="Image" src="https://github.com/user-attachments/assets/e956e321-2b80-4ab8-94a8-6b6838174434" />
 
 ## License
 
