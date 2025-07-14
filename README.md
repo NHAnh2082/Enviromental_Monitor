@@ -129,7 +129,7 @@ Environmental_Monitor/
 
 ## Result
 
-https://github.com/NHAnh2082/Enviromental_Monitor/issues/1#issue-3229376884
+![Image](https://github.com/user-attachments/assets/142a1d98-a188-4dff-a327-0d7762df8cbc)
 
 
 
